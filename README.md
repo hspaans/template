@@ -33,7 +33,7 @@ git merge template/master --allow-unrelated-histories
 ### Step 4: Resolve conflicts
 
 1. Open your code editor
-2. Look for the `<<<<<<< HEAD`` and`>>>>>>> template/master` markers.
+2. Look for the `<<<<<<< HEAD` and `>>>>>>> template/master` markers.
 3. Choose which changes to keep.
 4. Stage and commit:
 
