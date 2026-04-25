@@ -40,5 +40,5 @@ git merge template/master --allow-unrelated-histories
 ```bash
 git add .
 git commit -m "Merged latest updates from template"
-git push origin main
+git push origin master
 ```
